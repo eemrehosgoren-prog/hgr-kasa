@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "eemrehosgoren-prog.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "eemrehosgoren-prog.github",
+  "start_url": "/https://eemrehosgoren-prog.github.io/hgr-kasa/",
+  "theme_color": "#ffffff"
+}
